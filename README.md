@@ -17,42 +17,53 @@ How to monitor your chatbot's working?
 New function: read messages from others:
 Clayton send messages to channel 1:
 
-<img width="257" alt="截屏2023-09-25 20 44 03" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/d06fb2be-86b0-4f30-8481-768ef7afc823">
+<img width="257" alt="截屏2023-09-25 20 44 03" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/d62fde20-5bd3-448c-a3cf-2d9faef7e514">
+
 
 Then Changzhou see:
 
-<img width="474" alt="截屏2023-09-25 20 42 05" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/79cfef44-7a23-471c-8eff-36129b251d7a">
+<img width="474" alt="截屏2023-09-25 20 42 05" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/d47e2b27-d708-4d52-9105-b18667b5a747">
+
 
 
 In monitor:
-<img width="987" alt="截屏2023-09-25 21 15 57" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/0bb2536f-8b1a-4d15-ab05-b596b8a76e5a">
+
+<img width="992" alt="截屏2023-09-25 21 23 52" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/f89cd668-9788-4e9f-b434-52d6d4122ddb">
 
 Same as above, these are the output for at least 3 different user:
 
 Identify and register if not exists:
 
-<img width="734" alt="截屏2023-09-25 21 16 22" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/08410bf3-9011-41cc-8155-2e32fb07ba22">
+<img width="734" alt="截屏2023-09-25 21 16 22" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/38208caa-e560-498e-bdb0-5583a85b934d">
+
 
 Join multiple channels:
 
-<img width="693" alt="截屏2023-09-25 21 16 47" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/ac770be7-36d6-4820-a0d4-96b0bb6f89fc">
+
+<img width="676" alt="截屏2023-09-25 21 24 42" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/6d6e54a0-751a-48c8-8997-ff977e2417b8">
+
 
 Help:
 
-<img width="866" alt="截屏2023-09-25 21 17 04" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/b33f5918-afca-47ce-a257-7a1cdb3344fd">
+
+<img width="866" alt="截屏2023-09-25 21 17 04" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/355f7738-9192-4e19-ac3d-8ffd180a60a6">
+
 
 weather:
 
-<img width="557" alt="截屏2023-09-25 21 17 33" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/8c51ce0d-d36e-4226-b577-e51ce9177ee8">
+
+<img width="557" alt="截屏2023-09-25 21 17 33" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/5bdef1ec-26dd-4abe-9614-7fccc75d6e15">
 
 Fun fact:
 
-<img width="1035" alt="截屏2023-09-25 21 17 54" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/5622b4b2-e0f5-4c50-bde1-3f903722939e">
+<img width="883" alt="截屏2023-09-25 21 25 20" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/03ddd79c-4d82-47b3-ba3b-0c92678aef7a">
 
 Who am I:
 
-<img width="455" alt="截屏2023-09-25 21 18 02" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/59ed2e8f-ea98-44dd-9c52-59971d1d6e2b">
+<img width="450" alt="截屏2023-09-25 21 25 36" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/b7a753c2-39ad-4811-910d-7e9c8d4fd109">
+
 
 Screenshot for monitor:
 
-<img width="1020" alt="截屏2023-09-25 21 18 23" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/1df120f8-8351-401f-890e-400a38cd2f8d">
+
+<img width="1358" alt="截屏2023-09-25 21 25 50" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/24a4f6bc-6e7f-4b87-a067-0d192f688940">
