@@ -16,27 +16,37 @@ How to monitor your chatbot's working?
 
 New function: read messages from others:
 Clayton send messages to channel 1:
+
 <img width="257" alt="截屏2023-09-25 20 44 03" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/d06fb2be-86b0-4f30-8481-768ef7afc823">
 
 Then Changzhou see:
+
 <img width="474" alt="截屏2023-09-25 20 42 05" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/79cfef44-7a23-471c-8eff-36129b251d7a">
+
+
 In monitor:
 <img width="987" alt="截屏2023-09-25 21 15 57" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/0bb2536f-8b1a-4d15-ab05-b596b8a76e5a">
 
 Same as above, these are the output for at least 3 different user:
+
 Identify and register if not exists:
+
 <img width="734" alt="截屏2023-09-25 21 16 22" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/08410bf3-9011-41cc-8155-2e32fb07ba22">
 
 Join multiple channels:
+
 <img width="693" alt="截屏2023-09-25 21 16 47" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/ac770be7-36d6-4820-a0d4-96b0bb6f89fc">
 
 Help:
+
 <img width="866" alt="截屏2023-09-25 21 17 04" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/b33f5918-afca-47ce-a257-7a1cdb3344fd">
 
 weather:
+
 <img width="557" alt="截屏2023-09-25 21 17 33" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/8c51ce0d-d36e-4226-b577-e51ce9177ee8">
 
 Fun fact:
+
 <img width="1035" alt="截屏2023-09-25 21 17 54" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/5622b4b2-e0f5-4c50-bde1-3f903722939e">
 
 Who am I:
