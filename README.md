@@ -16,25 +16,31 @@ How to monitor your chatbot's working?
 
 New function: read messages from others:
 Clayton send messages to channel 1:
-![截屏2023-09-25 20.44.03.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.44.03.png)
+<img width="257" alt="截屏2023-09-25 20 44 03" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/d06fb2be-86b0-4f30-8481-768ef7afc823">
+
 Then Changzhou see:
-![截屏2023-09-25 20.42.05.png](..%2FDesktop%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.42.05.png)
-In monitor:![截屏2023-09-25 20.45.21.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_J2xWUk%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.45.21.png)
+<img width="474" alt="截屏2023-09-25 20 42 05" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/79cfef44-7a23-471c-8eff-36129b251d7a">
+In monitor:
+<img width="987" alt="截屏2023-09-25 21 15 57" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/0bb2536f-8b1a-4d15-ab05-b596b8a76e5a">
 
 Same as above, these are the output for at least 3 different user:
 Identify and register if not exists:
-![截屏2023-09-25 20.54.16.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_n2MW05%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.54.16.png)
+<img width="734" alt="截屏2023-09-25 21 16 22" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/08410bf3-9011-41cc-8155-2e32fb07ba22">
 
 Join multiple channels:
-![截屏2023-09-25 20.55.52.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_tKmIL1%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.55.52.png)
+<img width="693" alt="截屏2023-09-25 21 16 47" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/ac770be7-36d6-4820-a0d4-96b0bb6f89fc">
+
 Help:
-![截屏2023-09-25 20.52.21.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_G8AnG3%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.52.21.png)
+<img width="866" alt="截屏2023-09-25 21 17 04" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/b33f5918-afca-47ce-a257-7a1cdb3344fd">
+
 weather:
-![截屏2023-09-25 20.50.59.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_cJ9fhG%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.50.59.png)
+<img width="557" alt="截屏2023-09-25 21 17 33" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/8c51ce0d-d36e-4226-b577-e51ce9177ee8">
+
 Fun fact:
-![截屏2023-09-25 20.47.08.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_lM54CR%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.47.08.png)
+<img width="1035" alt="截屏2023-09-25 21 17 54" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/5622b4b2-e0f5-4c50-bde1-3f903722939e">
+
 Who am I:
-![截屏2023-09-25 20.51.40.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_mdswZh%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.51.40.png)
+<img width="455" alt="截屏2023-09-25 21 18 02" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/59ed2e8f-ea98-44dd-9c52-59971d1d6e2b">
 
 Screenshot for monitor:
-![截屏2023-09-25 20.58.37.png](..%2F..%2F..%2Fvar%2Ffolders%2Fb_%2Fygk7t19j3nnbyh1h2mg_7wn80000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_js5ZwX%2F%E6%88%AA%E5%B1%8F2023-09-25%2020.58.37.png)
+<img width="1020" alt="截屏2023-09-25 21 18 23" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/1df120f8-8351-401f-890e-400a38cd2f8d">
