@@ -50,7 +50,9 @@ Fun fact:
 <img width="1035" alt="截屏2023-09-25 21 17 54" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/5622b4b2-e0f5-4c50-bde1-3f903722939e">
 
 Who am I:
+
 <img width="455" alt="截屏2023-09-25 21 18 02" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/59ed2e8f-ea98-44dd-9c52-59971d1d6e2b">
 
 Screenshot for monitor:
+
 <img width="1020" alt="截屏2023-09-25 21 18 23" src="https://github.com/LiveWithTrance/DS5760/assets/111295481/1df120f8-8351-401f-890e-400a38cd2f8d">
